@@ -17,7 +17,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="teamm"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TeamM"
@@ -32,7 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    <meta-data android:name="com.example.teamm" android:value="e014384f83acea732965e91a538fbacf"/>
+    <meta-data android:name="com.kakao.sdk.AppKey" android:value="e014384f83acea732965e91a538fbacf"/>
     </application>
 
 </manifest>
